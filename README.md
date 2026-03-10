@@ -20,39 +20,39 @@
 - **Automating catalog management processes**
 
 ## Parsing​
-- **collecting data from the website for the task**​
-- **name / characteristics / description / photo / categories**​
-- **results in Excel / CSV / Google Sheets**​
-- **import to CMS / upload to admin panel**​
-- **anti-duplicates + data normalization**​
-- **any complexity (catalog, filters, variations)**​
+- collecting data from the website for the task​
+- name / characteristics / description / photo / categories​
+- results in Excel / CSV / Google Sheets​
+- import to CMS / upload to admin panel​
+- anti-duplicates + data normalization​
+- any complexity (catalog, filters, variations)​
 
 ## Updates​
-- **updating prices and balances**​
-- **daily checks (on schedule)**​
-- **adding new products (included in the price)**​
-- **upload to admin panel / automatic import**​
-- **1 source included (additional sources — upon request)**​
-- **notifications about changes (if necessary)**​
-- **24/7 support**​
+- updating prices and balances​
+- daily checks (on schedule)​
+- adding new products (included in the price)​
+- upload to admin panel / automatic import​
+- 1 source included (additional sources — upon request)​
+- notifications about changes (if necessary)​
+- 24/7 support​
 
 ## Price lists​
-- **import of supplier price lists**​
-- **any format (Excel / CSV / XML / YML)**​
-- **initial processing (cleaning, units, names)**​
-- **filtering and exclusion rules**​
-- **1 price list included (additional price lists — upon request)**​
-- **matching with products (by item number/barcode/name)**​
-- **scheduled auto-update (daily) + upload to admin panel**​
+- import of supplier price lists​
+- any format (Excel / CSV / XML / YML)​
+- initial processing (cleaning, units, names)​
+- filtering and exclusion rules​
+- 1 price list included (additional price lists — upon request)​
+- matching with products (by item number/barcode/name)​
+- scheduled auto-update (daily) + upload to admin panel​
 
 ## Monitoring​
-- **competitor price checking**​
-- **any sources**​
-- **reports and analytics**​
-- **automatic markups according to rules**​
-- **convenient account interface**​
-- **integration / export to Excel / import to CMS**​
-- **individual logic + personal support**​
+- competitor price checking​
+- any sources​
+- reports and analytics​
+- automatic markups according to rules​
+- convenient account interface​
+- integration / export to Excel / import to CMS​
+- individual logic + personal support​
 ​
 ## 🌍 Where to find me:
  - [Telegram](https://t.me/@pricegidcom)
